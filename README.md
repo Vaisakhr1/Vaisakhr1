@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaisakh R
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently learning BCA 2nd year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
