@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vaisakh R
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in Game development
 - 🌱 I’m currently learning BCA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me ...
 
 <!---
