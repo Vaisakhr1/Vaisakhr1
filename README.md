@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me ...
+- LinkedIn: www.linkedin.com/in/vaisakh-r-iyer
 
 <!---
 Vaisakhr1/Vaisakhr1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
