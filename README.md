@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vaisakh R
+- 👋 Hi, I’m @Vaisakh R Iyer
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning BCA
+- 🌱 I’m a BCA graduate
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me ... LinkedIn: www.linkedin.com/in/vaisakh-r-iyer
 
